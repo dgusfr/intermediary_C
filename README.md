@@ -1,6 +1,6 @@
 # Exercícios Avançados na Linguagem C
 
-![Descrição da Imagem](/images/c.png)
+![Imagem Linguagem C](./images/c.png)
 
 ## Sumário
 
