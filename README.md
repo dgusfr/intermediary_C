@@ -36,7 +36,7 @@ Este projeto tem como objetivo demonstrar possiveis soluções para exercícios 
 
 11.Implementa uma função swap que troca os valores de duas variáveis float e, em seguida, realiza a troca entre dois números digitados pelo usuário.
 
-12.implementa a função 'inverte' que recebe uma string como entrada e retorna uma nova string com os caracteres invertidos.
+12.Implementa a função 'inverte' que recebe uma string como entrada e retorna uma nova string com os caracteres invertidos.
 
 13.Implementa uma função imc para calcular o Índice de Massa Corporal (IMC) com base na massa (em kg) e altura (em metros) fornecidas pelo usuário.
 
@@ -50,7 +50,7 @@ Cada nó da lista contém uma chave (nome do aluno) e um valor (informações do
 17.Implementa uma estrutura de dados de fila utilizando uma lista encadeada simples. 
 Permite inserir elementos na fila, remover elementos da fila e imprimir o conteúdo da fila.
 
-18.calcula o determinante de uma matriz quadrada usando o método de cofatores.
+18.Calcula o determinante de uma matriz quadrada usando o método de cofatores.
 
 ## Instalações
 
